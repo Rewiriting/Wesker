@@ -1,0 +1,22 @@
+{
+    "admin": {
+        "pass": "1234",
+        "email": "admin@mail.ru",
+        "secret": "админ"
+    },
+    "Retro": {
+        "pass": "123456",
+        "email": "1231313212313212@gial.co",
+        "secret": "маяк"
+    },
+    "rerererer": {
+        "pass": "123456",
+        "email": "4736250@gmail.com",
+        "secret": "парни"
+    },
+    "qwejquejqeq": {
+        "pass": "123456",
+        "email": "shadowstandoff6@gmail.com",
+        "secret": "man"
+    }
+}
